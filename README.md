@@ -4,7 +4,9 @@ A video came across my facebook feed with an art piece.
 
 http://trendland.com/troika-squaring-the-circle/
 
-I wondered how it was made, and wrote some matlab code to do it. 
+I wondered how it was made, and wrote some matlab code to investigate. 
+
+Turns out it's parabolas!
 
 Here are the results of the code:
 
