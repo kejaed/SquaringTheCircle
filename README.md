@@ -15,3 +15,9 @@ https://www.youtube.com/watch?v=9S1gCIHZkDY
 
 B&W:
 https://www.youtube.com/watch?v=LrqmgD3Lvs8
+
+
+FFMPEG was used to dump the video to images to more easily work with:
+ffmpeg -i circle.mp4 -r 5 -f image2 png\IMG%%04d.png
+
+
